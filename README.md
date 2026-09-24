@@ -8,8 +8,7 @@ Project: AI Smart Water Management System with Mobile App Interface
 ,Event: INNOVERSE 2026
 ,Country: Iran
 
-
-- 🌍 IFIA INV Member
+-🌍 IFIA INV Member
 
 Organization: International Federation of Inventors' Associations (IFIA)
 Status: Member
